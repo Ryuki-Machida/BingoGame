@@ -60,8 +60,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Cell.cs" />
-    <Compile Include="Assets\Scripts\Field.cs" />
     <Compile Include="Assets\Scripts\Board.cs" />
+    <Compile Include="Assets\Scripts\Field.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\BingoGame.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
